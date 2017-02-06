@@ -28,7 +28,7 @@
 		<button>开始运动</button>
 		<div class="animate" style="background-color: #98bf26;height: 100px;width: 100px;position: absolute;"></div>
 		<br />
-               在本地修改结束
+            删除掉原有的
 	</body>
 
 </html>
