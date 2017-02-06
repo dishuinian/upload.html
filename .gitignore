@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 	<head>
 		<meta charset="UTF-8">
 		<title>jquery  demo</title>
@@ -10,7 +9,6 @@
 		<script type="text/javascript" src="js/jquery-3.1.1.min.js" ></script>
 		
 		<script>
-
 			$(document).ready(function(){
 				$("button").click(function(){
 					 $("div").animate({
